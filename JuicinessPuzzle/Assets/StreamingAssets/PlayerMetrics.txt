@@ -1,0 +1,7 @@
+Metrics 
+ 
+Amount of clicks in total this build: 6
+Amount of matches in total made: 34
+Amount of wrong moves made: 0
+Total score of level: 3300
+Total moves to match: 6
